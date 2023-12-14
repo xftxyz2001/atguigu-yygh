@@ -16,4 +16,14 @@
 
 
 ## 资料
+- [01-项目实体和vo类](./model/)
+- [02-项目sql语句](./sql/)
+- [03-项目工具类](./工具类/)
+- [04-前端相关资源](./前端相关资源/)
+- [05-医院接口模拟系统](./hospital-manage/)
 
+
+## [工具软件](https://txyz.lanzouu.com/b03r52c4j) 密码:1dg1
+- [nginx-1.12.0.zip](https://txyz.lanzouu.com/iizTG1hvmlxg)
+- [nacos-server-1.1.4.zip](https://txyz.lanzouu.com/i9C0t1hvmlib)
+- [node-v10.14.2-x64.zip](https://txyz.lanzouu.com/iBq6S1hvmgwf)
