@@ -7,7 +7,7 @@ import com.atguigu.yygh.model.user.UserInfo;
 import com.atguigu.yygh.user.service.UserInfoService;
 import com.atguigu.yygh.user.utils.ConstantWxPropertiesUtils;
 import com.atguigu.yygh.user.utils.HttpClientUtils;
-import com.sun.deploy.net.URLEncoder;
+import java.net.URLEncoder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.util.StringUtils;
